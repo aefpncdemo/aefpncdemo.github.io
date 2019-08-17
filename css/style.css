@@ -50,7 +50,7 @@ Main components
   width: 45%;
   float: left;
   margin: 20px;
-  margin-left: 500px;
+  margin-left: 380px;
   height: 150px;
   font-size: 62px;
   color: #ffffff;
@@ -87,7 +87,7 @@ header {
   height: 100px;
   line-height: 100px;
   padding-bottom: 90px;
-  padding-top: 120px;
+  padding-top: 40px;
   text-align: center;
 }
 header h1 {

@@ -83,12 +83,13 @@ header h1 {
 .bottom-right {
   position: absolute;
   bottom: 20px;
-  right: 90px;
+  right: 20px;
 }
 
 .gt {
   float:left;
   text-align: center;
+  padding-left: 10px;
   color: white;
   width: 40%;
   position: relative;
@@ -96,11 +97,13 @@ header h1 {
 
 .cd-image-container {
   position: relative;
+  padding-right: 10px;
   width: 100%;
   max-width: 625px;
   padding-top: 0px;
   margin: 0em auto;
 }
+
 .cd-image-container img {
   display: block;
 }
