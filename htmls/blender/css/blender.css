@@ -32,16 +32,16 @@ Main components
 -------------------------------- */
 
  /* The sidebar menu */
- .sidenav {
-    height: 100%;
-    width: 200px; 
-    position: fixed;
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
-    left: 0;
-    background-color: #AE0055; 
-    overflow-x: hidden; 
-    padding-top: 150px;
+.sidenav {
+  height: 100%;
+  width: 200px; 
+  position: fixed;
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #AE0055; 
+  overflow-x: hidden; 
+  padding-top: 150px;
 }
 
 /* The navigation menu links */
@@ -73,6 +73,26 @@ header h1 {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fig {
+  margin-left: 340px;
+  position: relative;
+  float: left;
+  width: 35%;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 20px;
+  right: 90px;
+}
+
+.gt {
+  float:left;
+  text-align: center;
+  color: white;
+  width: 35%;
+  position: relative;
+}
 .cd-image-container {
   position: relative;
   width: 100%;
